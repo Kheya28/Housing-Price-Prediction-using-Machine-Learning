@@ -1,0 +1,15 @@
+DecisionTreeRegressor Model:
+    rmse: 0.0
+    Mean:  4.775103172994617
+    Standard Deviation:  1.4060611579656328
+
+
+LinearRegression model:
+    rmse: 4.857
+    Mean:  5.049298900213828
+    Standard Deviation:  1.0669274011048302
+
+RandomForestRegressor:
+    rmse:1.1999
+    Mean:  3.3726726953545265
+    Standard Deviation:  0.6586906773013324
